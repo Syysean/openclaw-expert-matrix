@@ -221,7 +221,7 @@ docker compose run --rm openclaw-cli devices approve <requestId>
 
 ## ❗ 常见报错与解决方法 (14 问)
 
-<details>
+<details markdown="1">
 
 <summary><b>🔥 点击展开查看全部 14 个常见报错与解决方案</b></summary>
 
@@ -283,7 +283,6 @@ docker compose run --rm openclaw-cli devices approve <requestId>
   1. 使用备份恢复：`copy D:\AI\openclaw\config\openclaw.json.bak D:\AI\openclaw\config\openclaw.json`
   2. 推荐修改前在 [jsonlint.com](https://jsonlint.com) 验证 JSON 格式。
   3. 执行 `docker compose down` 后重新 `docker compose up -d`。
-
 
 </details>
 
