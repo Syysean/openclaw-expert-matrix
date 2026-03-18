@@ -250,7 +250,7 @@ docker compose logs -f siliconflow-proxy
 
 ## ❗ 常见报错与解决方法
 
-<details>
+<details markdown="1">
 <summary><b>🔥 点击展开查看全部常见报错</b></summary>
 
 #### 1. `pull access denied for openclaw`
@@ -310,8 +310,7 @@ docker compose logs -f siliconflow-proxy
 - **解决**：用备份恢复，在 [jsonlint.com](https://jsonlint.com) 验证格式后再修改
 
 </details>
-
----
+<br>
 
 ## 🔒 安全注意事项
 
